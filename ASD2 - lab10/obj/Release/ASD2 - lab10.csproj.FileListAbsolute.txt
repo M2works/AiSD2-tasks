@@ -1,0 +1,10 @@
+C:\Users\mcmomot96\Documents\Visual Studio 2015\Projects\ASD2 - lab10\bin\Release\ASD2 - lab10.exe.config
+C:\Users\mcmomot96\Documents\Visual Studio 2015\Projects\ASD2 - lab10\bin\Release\ASD2 - lab10.exe
+C:\Users\mcmomot96\Documents\Visual Studio 2015\Projects\ASD2 - lab10\bin\Release\ASD2 - lab10.pdb
+C:\Users\mcmomot96\Documents\Visual Studio 2015\Projects\ASD2 - lab10\bin\Release\Graph.dll
+C:\Users\mcmomot96\Documents\Visual Studio 2015\Projects\ASD2 - lab10\bin\Release\TestLab10.dll
+C:\Users\mcmomot96\Documents\Visual Studio 2015\Projects\ASD2 - lab10\bin\Release\TestPlatform.dll
+C:\Users\mcmomot96\Documents\Visual Studio 2015\Projects\ASD2 - lab10\bin\Release\TestSet.dll
+C:\Users\mcmomot96\Documents\Visual Studio 2015\Projects\ASD2 - lab10\obj\Release\ASD2 - lab10.csprojResolveAssemblyReference.cache
+C:\Users\mcmomot96\Documents\Visual Studio 2015\Projects\ASD2 - lab10\obj\Release\ASD2 - lab10.exe
+C:\Users\mcmomot96\Documents\Visual Studio 2015\Projects\ASD2 - lab10\obj\Release\ASD2 - lab10.pdb
